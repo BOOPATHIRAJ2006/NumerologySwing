@@ -1,4 +1,3 @@
-```markdown
 # Java Quiz & Numerology Apps
 
 This repository contains two simple Java applications:
